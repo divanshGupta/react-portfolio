@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://divanshGupta.github.io/react-portfolio/",
+  "homepage": "https://divanshGupta.github.io/react-portfolio",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
