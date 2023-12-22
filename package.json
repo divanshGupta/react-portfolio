@@ -5,16 +5,15 @@
   "type": "module",
   "homepage": "https://divanshGupta.github.io/react-portfolio/",
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "dependencies": {
     "-": "^0.0.1",
-    "gh-pages": "^6.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -27,6 +26,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
+    "gh-pages": "^6.1.0",
     "postcss": "^8.4.32",
     "tailwindcss": "^3.4.0",
     "vite": "^5.0.8"
